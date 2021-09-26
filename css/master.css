@@ -67,7 +67,7 @@ body {
     height: 80vh;
     margin: 10vh auto;
     border-radius: 30px;
-    box-shadow: 0px 0px 20px 0px #00000040;
+    box-shadow: 0px 0px 20px 0px #0000001c;
     display: flex;
 }
 @media (max-width: 991px) {
