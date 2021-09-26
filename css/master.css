@@ -246,9 +246,17 @@ body {
 }
 .landing .right-content .buttons .btn:nth-child(1) {
     background-color: #0000001f;
+    transition: 1s;
+}
+.landing .right-content .buttons .btn:nth-child(1):hover {
+    background-color: #0000004a;
 }
 .landing .right-content .buttons .btn:nth-child(2) {
     background-color: #95EB75;
+    transition: 1s;
+}
+.landing .right-content .buttons .btn:nth-child(2):hover {
+    background-color: #40d908;
 }
 .landing .right-content .buttons .btn a {
     text-decoration: none;
