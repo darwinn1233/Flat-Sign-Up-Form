@@ -42,6 +42,7 @@ html {
 }
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #eee;
 }
 /* ========== End Global Rules ========== */
 
@@ -69,6 +70,7 @@ body {
     border-radius: 30px;
     box-shadow: 0px 0px 20px 0px #0000001c;
     display: flex;
+    background-color: white;
 }
 @media (max-width: 991px) {
     .landing {
